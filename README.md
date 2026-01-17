@@ -1,4 +1,11 @@
-# Lecture 02 – Semantic HTML & Structure
+#  Semantic HTML & Structure
+#link http://127.0.0.1:5500/index.html
+
+#otput-
+![pic11](https://github.com/user-attachments/assets/60760384-4db0-4c43-8fed-e82aa8511008)
+
+![pic22](https://github.com/user-attachments/assets/23e05295-f975-4ef3-a7e2-1e39c1edf997)
+
 
 ## 1. What I implemented this lecture
 - Used semantic structure with `<header>`, `<main>`, `<section>`, `<article>`, and `<footer>`
